@@ -2,6 +2,8 @@
 
 This simple bash script is designed to detect vulnerabilities on a target website, such as SQL Injection, XSS (Cross-Site Scripting), insecure HTTP methods (PUT and DELETE), missing HTTP headers (X-Frame-Options, X-XSS-Protection, Content-Security-Policy), and LFI (Local File Inclusion). It also checks whether a specified port is open.
 
+
+## Example
 Please enter the target site URL (e.g., http://targetsite.com): http://example.com
 Please enter the port number to scan: 80
 
